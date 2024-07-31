@@ -3,4 +3,8 @@ Testing from power shell.
 pushing to master...
 merge ?
 working !!!!
+<<<<<<< HEAD
 from 1
+=======
+from 2
+>>>>>>> 272be7322e81df1c3bac2b25ea009daced4cb965
